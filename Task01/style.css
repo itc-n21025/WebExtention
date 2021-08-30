@@ -1,0 +1,112 @@
+@charset "utf-8";
+
+.wrapper {
+	overflow: hidden;
+}
+.AA {
+	float: left;
+	padding: 8px;
+	margin: 8px 0 8px 8px;
+} 
+
+.wrapperB {
+	overflow: hidden;
+}
+
+.BB {
+	border: 0.5px solid #000000;
+	background-color: #0000FF;
+}
+
+.important {
+	color: #FFFFFF;
+}
+
+.wrapperC {
+	overflow: hidden;
+}
+
+.CC {
+	float: left;
+	border: 1px solid #000000;
+	padding: 8px;
+	width: 300px; 
+}
+
+h5 {
+	font-size: 20px;
+}
+
+h6 {
+	font-size: 20px;
+}
+
+.wrapperD {
+	overflow: hidden;
+}
+
+.DD {
+	float: left;
+	padding: 8px;
+	margin: 8px 0 8px 8px;
+} 	
+
+.wrapperE {
+	overflow: hidden;
+}
+
+.EE {
+	border: 0.5px solid #000000;
+	background-color: #0000FF;
+}
+
+.importantA {
+	color: #FFFFFF;
+}
+
+.wrapperF {
+	overflow: hidden;
+}
+
+.FF {
+	float: left;
+	border: 1px solid #000000;
+	padding: 8px;
+	width: 300px;
+}	
+
+h8 {
+	font-size: 20px;
+}
+
+h11 {
+	font-size: 20px;
+}
+
+h12 {
+	font-size: 20px;
+} 
+
+.wrapperG {
+	overflow: hidden;
+}
+
+.GG {
+	float: left;
+	padding: 8px;
+	margin: 8px 0 8px 8px;
+}
+
+.wrapperH {
+	overflow: hidden;
+}
+
+.HH {
+	float: left;
+	padding: 8px;
+	margin: 8px 0 8px 8px;
+}
+
+a:hover img{
+	opacity: 0.5;
+}
