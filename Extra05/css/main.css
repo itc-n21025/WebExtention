@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+.redbox {
+    background-color: #ff0000;
+    height: 200px;
+}
+.bluebox {
+    background-color: #0000ff;
+    height: 200px;
+}
+.yellowbox {
+    background-color: #ffff00;
+    height: 200px;
+}
+.purplebox {
+    background-color: #800080;
+    height: 200px;
+}
